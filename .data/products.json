@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1773102081486",
+    "name": "tes",
+    "description": "teste",
+    "price": 22,
+    "stock": 11,
+    "category": "books",
+    "createdAt": "2026-03-10T00:21:21.486Z",
+    "updatedAt": "2026-03-31T00:43:11.259Z"
+  },
+  {
+    "id": "1774917665152",
+    "name": "Notebook gamer",
+    "description": "celeron inside\nmemoria de video integrada\nroda Red dead (confia)",
+    "price": 7000,
+    "stock": 5,
+    "category": "electronics",
+    "createdAt": "2026-03-31T00:41:05.152Z",
+    "updatedAt": "2026-03-31T00:43:11.256Z"
+  },
+  {
+    "id": "1774919899065",
+    "name": "iphone 16",
+    "description": "iphone",
+    "price": 5000,
+    "stock": 9,
+    "category": "electronics",
+    "createdAt": "2026-03-31T01:18:19.065Z",
+    "updatedAt": "2026-03-31T01:20:32.855Z"
+  }
+]

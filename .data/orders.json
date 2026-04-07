@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1774917705807",
+    "userId": "1774917700816",
+    "userName": "joao",
+    "items": [
+      {
+        "productId": "1774917665152",
+        "productName": "Notebook gamer",
+        "price": 7000,
+        "qty": 1
+      }
+    ],
+    "total": 7000,
+    "status": "CONFIRMADO",
+    "createdAt": "2026-03-31T00:41:45.807Z",
+    "updatedAt": "2026-03-31T00:42:21.367Z"
+  },
+  {
+    "id": "1774917791260",
+    "userId": "1774917700816",
+    "userName": "joao",
+    "items": [
+      {
+        "productId": "1774917665152",
+        "productName": "Notebook gamer",
+        "price": 7000,
+        "qty": 2
+      },
+      {
+        "productId": "1773102081486",
+        "productName": "tes",
+        "price": 22,
+        "qty": 1
+      }
+    ],
+    "total": 14022,
+    "status": "CONFIRMADO",
+    "createdAt": "2026-03-31T00:43:11.260Z",
+    "updatedAt": "2026-03-31T00:44:11.258Z"
+  },
+  {
+    "id": "1774920032858",
+    "userId": "1774917700816",
+    "userName": "joao",
+    "items": [
+      {
+        "productId": "1774919899065",
+        "productName": "iphone 16",
+        "price": 5000,
+        "qty": 1
+      }
+    ],
+    "total": 5000,
+    "status": "CANCELADO",
+    "createdAt": "2026-03-31T01:20:32.858Z",
+    "updatedAt": "2026-03-31T01:21:47.443Z"
+  }
+]
