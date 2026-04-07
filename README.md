@@ -158,8 +158,3 @@ npm run start    # Inicia o servidor de produção
 npm run lint     # Verifica o código com ESLint
 ```
 
----
-
-## 📄 Licença
-
-MIT
